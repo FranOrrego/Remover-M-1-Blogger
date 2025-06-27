@@ -1,0 +1,1 @@
+<script>/*<![CDATA[*/(function(){function n(e){const t=/[\?&]m=[01]/g;return e.replace(t,"")}const e=location.href,t=n(e);e!==t&&window.history.replaceState({},document.title,t)})();/*]]>*/</script>
