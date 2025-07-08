@@ -1,0 +1,1 @@
+<script>(function(){const url = new URL (window.location.href);if (url.searchParams.has(&quot;m&quot;)) {url.searchParams.delete(&quot;m&quot;); window.history.replaceState({}, document.title, url.toString());}})();</script>
